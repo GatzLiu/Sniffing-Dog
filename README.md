@@ -25,3 +25,9 @@ Reference：My blog http://blog.csdn.net/gitzliu/article/details/53996484
 main.cpp: This file is related to the interface.
 mainwindow.h: This file is related to class definition and specific logic implementation.
 mainwindow.cpp: This file should have been related to the implementation of the specific logic, but I implemented in the mainwindow.h.
+
+-- System flowchart --
+![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/system_flowchart.JPG)
+
+-- Program display --
+![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/view.JPG)
