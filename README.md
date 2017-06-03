@@ -12,7 +12,7 @@ Qt5.0 and following versions<br>
 
 ## **Function **<br>
 Sniffing Dog has the functions of capturing physical layer data frames, analyzing IP, ARP, TCP, UDP, ICMP, HTTP and FTP protocols. It can display the basic information of protocol packets, including capture number, capture time, source IP / MAC, destination IP / MAC, protocol type, packet size, and full content for a specific protocol packet, including hexadecimal encoding and source information.<br>
-![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/protocol_architecture.JPG)
+![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/pictures/protocol_architecture.JPG)
 
 ## **Running method**<br>
 1. Open and run the program in QT. <br>
@@ -27,8 +27,8 @@ mainwindow.h: This file is related to class definition and specific logic implem
 mainwindow.cpp: This file should have been related to the implementation of the specific logic, but I implemented in the mainwindow.h.<br>
 
 ## **System flowchart**<br>
-![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/system_flowchart.JPG)
+![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/pictures/system_flowchart.JPG)
 
 ## **Program display**
-![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/view.JPG)
+![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/pictures/view.JPG)
  ## **THINKS !**
