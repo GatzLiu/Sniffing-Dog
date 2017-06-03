@@ -10,7 +10,7 @@ Date：2016-12-28<br>
 Liunx（Ubuntu 12.04/14.04/16.04）<br>
 Qt5.0 and following versions<br>
 
-## **Function **
+## **Function**
 Sniffing Dog has the functions of capturing physical layer data frames, analyzing IP, ARP, TCP, UDP, ICMP, HTTP and FTP protocols. It can display the basic information of protocol packets, including capture number, capture time, source IP / MAC, destination IP / MAC, protocol type, packet size, and full content for a specific protocol packet, including hexadecimal encoding and source information.<br>
 ![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/pictures/protocol_architecture.JPG)
 
