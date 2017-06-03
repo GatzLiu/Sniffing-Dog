@@ -20,7 +20,7 @@ If the permissions are incorrect(eth0:you dont have permission to capture on tha
 take the following actions.
 2. Switch to the project directory and enter ‘qmake’,'make' and 'sudo ./net8' to run the program
 Reference：My blog http://blog.csdn.net/gitzliu/article/details/53996484
-
+![这里写图片描述](http://img.blog.csdn.net/20170603161554557?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR2l0ekxpdQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 -- Files introduction --
 main.cpp: This file is related to the interface.
 mainwindow.h: This file is related to class definition and specific logic implementation.
@@ -31,3 +31,6 @@ mainwindow.cpp: This file should have been related to the implementation of the 
 
 -- Program display --
 ![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/view.JPG)
+
+
+地址：[GatzLiu's Github [ Snifing-Dog ]](https://github.com/GatzLiu/Sniffing-Dog)
