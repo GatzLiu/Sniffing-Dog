@@ -19,7 +19,7 @@ Sniffing Dog has the functions of capturing physical layer data frames, analyzin
 If the permissions are incorrect(eth0:you dont have permission to capture on that device(socket:Operation net permitted)), 
 take the following actions.<br>
 2. Switch to the project directory and enter ‘qmake’,'make' and 'sudo ./net8' to run the program<br>
-Reference：My blog http://blog.csdn.net/gitzliu/article/details/53996484<br>
+Reference：My blog [[ GitzLiu-CSDN--QT ]](http://blog.csdn.net/gitzliu/article/details/53996484)<br>
 
 ## **Files introduction**<br>
 main.cpp: This file is related to the interface.<br>
