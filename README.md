@@ -12,7 +12,7 @@ Qt5.0 and following versions
 
 -- Function --
 Sniffing Dog has the functions of capturing physical layer data frames, analyzing IP, ARP, TCP, UDP, ICMP, HTTP and FTP protocols. It can display the basic information of protocol packets, including capture number, capture time, source IP / MAC, destination IP / MAC, protocol type, packet size, and full content for a specific protocol packet, including hexadecimal encoding and source information.
-![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/.jpg)
+![image](https://github.com/GatzLiu/Sniffing-Dog/raw/master/picture/protocol_architecture.JPG)
 
 -- Running method --
 1. Open and run the program in QT. 
